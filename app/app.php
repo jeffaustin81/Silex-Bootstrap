@@ -2,6 +2,7 @@
 
     // DEPENDENCIES
         require_once __DIR__."/../vendor/autoload.php"; // frameworks
+        require_once __DIR__."/../src/First.php"; // example of filepath to first Object created
 
     // INITIALIZE COOKIE SESSION
 
